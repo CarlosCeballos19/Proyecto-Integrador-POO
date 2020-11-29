@@ -5,7 +5,8 @@
 #include <iostream>
 #include <string>
 using namespace std;
-
+//Teamooooo ayuda
+//lol
 class Usuario{
     private:
         string nombre;
